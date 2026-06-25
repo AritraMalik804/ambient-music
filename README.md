@@ -32,6 +32,6 @@ Simply open the live website on any device and press play:
 ## License & Attribution
 
 This project is open-source and free to use. However, if you use, host, or distribute this application (or a modified version of it), **you must provide clear attribution and a link back to the original website**: 
-👉 [https://ambient-music.netlify.app/](https://ambient-music.netlify.app/)
+👉 [https://aura-ambient.netlify.app/](https://aura-ambient.netlify.app/)
 
 See the [LICENSE](LICENSE) file for exact terms.
