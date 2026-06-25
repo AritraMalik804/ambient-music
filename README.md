@@ -1,8 +1,8 @@
 # Aura - Infinite Background Music for Focus & Flow
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/ambient-music/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/aura-ambient/deploys)
 
-**Listen Live:** [https://ambient-music.netlify.app/](https://ambient-music.netlify.app/)
+**Listen Live:** [https://ambient-music.netlify.app/](https://aura-ambient.netlify.app/)
 
 Finding the perfect background music for deep work, coding, studying, or just relaxing can be frustrating. Playlists eventually repeat, algorithms serve distracting tracks, and streaming services eat up bandwidth. 
 
