@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/aura-ambient/deploys)
 
-**Listen Live:** [https://ambient-music.netlify.app/](https://aura-ambient.netlify.app/)
+**Listen Live:** [https://aura-ambient.netlify.app/](https://aura-ambient.netlify.app/)
 
 Finding the perfect background music for deep work, coding, studying, or just relaxing can be frustrating. Playlists eventually repeat, algorithms serve distracting tracks, and streaming services eat up bandwidth. 
 
@@ -27,7 +27,7 @@ For a deep dive into the algorithmic sequencing, Web Audio API math, and applica
 Because Aura is fully hosted and runs entirely within your browser, **there is nothing to download or install**. 
 
 Simply open the live website on any device and press play:
-👉 **[Launch Aura (Live App)](https://ambient-music.netlify.app/)**
+👉 **[Launch Aura (Live App)](https://aura-ambient.netlify.app/)**
 
 ## License & Attribution
 
