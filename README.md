@@ -1,6 +1,9 @@
 # Aura - Infinite Background Music for Focus & Flow
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/aura-ambient/deploys)
+![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat)
+![version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Faura-ambient.netlify.app%2F)
 
 **Listen Live:** [https://aura-ambient.netlify.app/](https://aura-ambient.netlify.app/)
 
