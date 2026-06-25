@@ -32,3 +32,10 @@ cd ambient-music
 npm install
 npm run dev
 ```
+
+## License & Attribution
+
+This project is open-source and free to use. However, if you use, host, or distribute this application (or a modified version of it), **you must provide clear attribution and a link back to the original website**: 
+👉 [https://ambient-music.netlify.app/](https://ambient-music.netlify.app/)
+
+See the [LICENSE](LICENSE) file for exact terms.
