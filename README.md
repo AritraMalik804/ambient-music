@@ -12,6 +12,9 @@ Aura is a lightweight, all-local web application that continuously generates amb
 - **Procedural Engine**: Infinite, non-repeating drum beats, chord progressions, and arpeggiated melodies.
 - **Glassmorphic UI**: Beautiful dark mode aesthetic with animated particles and CSS gradients.
 
+## Documentation
+For a deep dive into the algorithmic sequencing, Web Audio API math, and application architecture, please read the [Technical Documentation](TECHNICAL_DOCS.md).
+
 ## Running Locally
 
 To run this project on your own machine:
