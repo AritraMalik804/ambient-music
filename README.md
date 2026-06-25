@@ -1,18 +1,25 @@
-# Aura - Generative Ambient Music
+# Aura - Infinite Background Music for Focus & Flow
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/ambient-music/deploys)
 
 **Listen Live:** [https://ambient-music.netlify.app/](https://ambient-music.netlify.app/)
 
-Aura is a lightweight, all-local web application that continuously generates ambient, lo-fi, and synthwave music directly in your browser. It uses algorithmic sequencing and the native Web Audio API to synthesize rich soundscapes without any backend dependencies.
+Finding the perfect background music for deep work, coding, studying, or just relaxing can be frustrating. Playlists eventually repeat, algorithms serve distracting tracks, and streaming services eat up bandwidth. 
 
-## Features
-- **Zero Backend**: All audio generation is 100% client-side, making it incredibly fast and free to host.
-- **Dynamic Moods**: Switch between *Calm* (lo-fi chillhop), *Deep* (dark synthwave), and *Ethereal* (dream pop).
-- **Procedural Engine**: Infinite, non-repeating drum beats, chord progressions, and arpeggiated melodies.
-- **Glassmorphic UI**: Beautiful dark mode aesthetic with animated particles and CSS gradients.
+**Aura** solves this by mathematically generating an infinite, non-repeating stream of lo-fi, synthwave, and ambient music directly in your browser. It never repeats, it never ends, and it requires absolutely zero internet bandwidth after the initial page load.
 
-## Documentation
+## Why Use Aura?
+- 🎧 **Unbroken Focus:** Infinite, lyric-free music explicitly designed to keep you in the flow state.
+- 📴 **100% Offline Capable:** Once loaded, the audio is generated entirely by your device's processor using the Web Audio API. No streaming required.
+- 🔋 **Ultra-Lightweight:** Runs smoothly in a background tab without draining your battery or eating up RAM.
+- 🎛️ **Choose Your Vibe:** 
+  - **Calm**: Smooth Lo-Fi Chillhop for reading and studying.
+  - **Deep**: Dark, driving Synthwave for coding and late-night focus.
+  - **Ethereal**: Uplifting Dream Pop for creative thinking and relaxation.
+
+## For Developers (Under the Hood)
+Aura is a client-side, zero-backend application. It uses custom statistical sequencing and native browser APIs to synthesize rich soundscapes on the fly, entirely eliminating the need for audio files.
+
 For a deep dive into the algorithmic sequencing, Web Audio API math, and application architecture, please read the [Technical Documentation](TECHNICAL_DOCS.md).
 
 ## Running Locally
