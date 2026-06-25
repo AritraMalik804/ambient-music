@@ -22,16 +22,12 @@ Aura is a client-side, zero-backend application. It uses custom statistical sequ
 
 For a deep dive into the algorithmic sequencing, Web Audio API math, and application architecture, please read the [Technical Documentation](TECHNICAL_DOCS.md).
 
-## Running Locally
+## Usage (No Installation Required)
 
-To run this project on your own machine:
+Because Aura is fully hosted and runs entirely within your browser, **there is nothing to download or install**. 
 
-```bash
-git clone https://github.com/AritraMalik804/ambient-music.git
-cd ambient-music
-npm install
-npm run dev
-```
+Simply open the live website on any device and press play:
+👉 **[Launch Aura (Live App)](https://ambient-music.netlify.app/)**
 
 ## License & Attribution
 
