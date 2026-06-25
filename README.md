@@ -1,16 +1,24 @@
-# React + Vite
+# Aura - Generative Ambient Music
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c46c8e5a-34f5-41d2-a172-a6646a0e9c0d/deploy-status)](https://app.netlify.com/projects/ambient-music/deploys)
 
-Currently, two official plugins are available:
+**Listen Live:** [https://ambient-music.netlify.app/](https://ambient-music.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Aura is a lightweight, all-local web application that continuously generates ambient, lo-fi, and synthwave music directly in your browser. It uses algorithmic sequencing and the native Web Audio API to synthesize rich soundscapes without any backend dependencies.
 
-## React Compiler
+## Features
+- **Zero Backend**: All audio generation is 100% client-side, making it incredibly fast and free to host.
+- **Dynamic Moods**: Switch between *Calm* (lo-fi chillhop), *Deep* (dark synthwave), and *Ethereal* (dream pop).
+- **Procedural Engine**: Infinite, non-repeating drum beats, chord progressions, and arpeggiated melodies.
+- **Glassmorphic UI**: Beautiful dark mode aesthetic with animated particles and CSS gradients.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Running Locally
 
-## Expanding the Oxlint configuration
+To run this project on your own machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+git clone https://github.com/AritraMalik804/ambient-music.git
+cd ambient-music
+npm install
+npm run dev
+```
