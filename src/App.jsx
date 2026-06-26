@@ -49,17 +49,11 @@ function App() {
         height: '100vh',
         flexDirection: 'column'
       }}>
-        <div className="glass" style={{
-          padding: '50px 70px',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          textAlign: 'center'
-        }}>
-          <h1 style={{ fontWeight: 300, marginBottom: '8px', fontSize: '2.5rem', letterSpacing: '4px' }}>
+        <div className="glass glass-panel">
+          <h1 className="title">
             Aura
           </h1>
-          <p style={{ color: 'rgba(255,255,255,0.5)', marginBottom: '50px', fontSize: '0.95rem', letterSpacing: '1px' }}>
+          <p className="subtitle">
             Generative ambient soundscapes
           </p>
 
